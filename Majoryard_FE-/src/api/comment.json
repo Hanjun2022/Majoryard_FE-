@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nickname": "user123",
+    "content": "정말 멋진 글이네요!",
+    "date": "2024-05-02",
+    "time": "15:30"
+  },
+  {
+    "id": 2,
+    "nickname": "commenter456",
+    "content": "너무 유익한 정보 감사합니다!",
+    "date": "2024-05-01",
+    "time": "10:45"
+  },
+  {
+    "id": 3,
+    "nickname": "guest789",
+    "content": "많은 도움이 되었습니다. 감사합니다!",
+    "date": "2024-04-30",
+    "time": "18:20"
+  },
+  {
+    "id": 4,
+    "nickname": "user321",
+    "content": "잘 읽었습니다!",
+    "date": "2024-04-29",
+    "time": "09:15"
+  },
+  {
+    "id": 5,
+    "nickname": "commenter654",
+    "content": "이런 정보가 필요했어요!",
+    "date": "2024-04-28",
+    "time": "14:50"
+  },
+  {
+    "id": 6,
+    "nickname": "guest987",
+    "content": "정말 유익한 내용이에요!",
+    "date": "2024-04-27",
+    "time": "11:30"
+  },
+  {
+    "id": 7,
+    "nickname": "user567",
+    "content": "고맙습니다!",
+    "date": "2024-04-26",
+    "time": "20:10"
+  },
+  {
+    "id": 8,
+    "nickname": "commenter890",
+    "content": "좋은 정보 감사합니다!",
+    "date": "2024-04-25",
+    "time": "16:40"
+  },
+  {
+    "id": 9,
+    "nickname": "guest123",
+    "content": "정말 잘 읽었습니다!",
+    "date": "2024-04-24",
+    "time": "12:20"
+  },
+  {
+    "id": 10,
+    "nickname": "user999",
+    "content": "매우 유익한 글이었습니다. 감사합니다!",
+    "date": "2024-04-23",
+    "time": "08:50"
+  }
+]

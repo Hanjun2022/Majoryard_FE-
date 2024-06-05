@@ -1,0 +1,17 @@
+.All{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  height: 1080px;
+}
+.Chat{
+  width: 83%;
+  height: 70%;
+  
+  font-size: 30px;
+  justify-content: start;
+  display: flex;
+  border-radius: 20px;
+}
+

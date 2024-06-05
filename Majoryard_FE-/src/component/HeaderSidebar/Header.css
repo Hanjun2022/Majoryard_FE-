@@ -1,0 +1,129 @@
+.first-header {
+    width: 100%;
+    height: 60px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title-link {
+    text-decoration: none;
+}
+
+.first-header h1 {
+    color: blue;
+    margin-left: 30px;
+}
+
+.first-header h1:hover {
+    cursor: pointer;
+}
+
+.first-header li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.first-header li a {
+    text-decoration: none;
+    color: #34302eb5;
+    font-size: 20px;
+}
+
+.first-header li button {
+    background-color: #b5ccf8;
+    font-size: 20px;
+    border-radius: 10%;
+    border: none;
+    margin-right: 20px;
+}
+
+.first-header li .button {
+    color: blue;
+}
+
+hr {
+    border: 0;
+    width: 100%;
+    height: 1px;
+    background: #4595fe;
+}
+
+.second-header {
+    width: 100%;
+    height: 30px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.second-header li {
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 17px;
+    color: #34302eb5;
+}
+
+li a:hover {
+    cursor: pointer;
+    background-color: #e0e0e0;
+}
+
+li button:hover {
+    cursor: pointer;
+    background-color: #e0e0e0;
+}
+
+.logo-modal {
+    position: absolute;
+    top: 50px;
+    /* 원하는 위치로 조절 */
+    right: 10px;
+    /* 원하는 위치로 조절 */
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    /* 요소들을 수평으로 배치하기 위해 flex 사용 */
+    flex-direction: column;
+    /* 요소들을 세로로 배치 */
+}
+
+.logo-modal ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.logo-modal ul li {
+    margin-bottom: 5px;
+    display: block;
+    font-size: 20px;
+}
+
+.logo-modal ul li .name {
+    font-weight: bold;
+}
+
+.logo-modal ul li .email {
+    font-weight: lighter;
+}
+
+.logo-modal ul li:last-child {
+    margin-bottom: 0;
+}
+
+.logo-modal ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo-modal ul li a:hover {
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+    color: #34302eb5;
+}

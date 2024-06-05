@@ -1,0 +1,14 @@
+.mini-menu {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.mini-menu-item {
+  text-decoration: none;
+  color: #999;
+}
+
+.mini-menu-item:hover {
+  color: #333;
+}

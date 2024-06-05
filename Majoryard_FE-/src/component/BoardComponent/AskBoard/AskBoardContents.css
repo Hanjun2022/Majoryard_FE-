@@ -1,0 +1,59 @@
+
+
+.askboard {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.AskBoard-contents-div a{
+    text-decoration: none;
+}
+/* card */
+.AskCard-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: #ddd solid 1px;
+    height: 12rem
+}
+
+.AskCard-title {
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    word-break: keep-all;
+    white-space: nowrap;
+
+    font-size: 24px;
+    margin-bottom: 15px;
+    text-decoration: none;
+    color: #333;
+    width: 69vw;
+}
+
+.AskCard-content {
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    word-break: keep-all;
+    white-space: nowrap;
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 20px;
+    text-decoration: none;
+    width: 69vw;
+}
+
+.AskCard-image{
+    height: 8rem;
+    width: 8rem;
+    object-fit: cover;
+}
+
+.AskCard-answered{
+    color: rgb(112, 112, 255);
+}
+
+.AskCard-not-answered{
+    color: #ff5757;
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "post_id": "11111110",
+        "id": "WDC 관리자",
+        "type": "동아리",
+        "title": "웹 개발 동아리 'Web Developers Community' 신입 회원 모집",
+        "content": "Web Developers Community는 웹 개발에 관심 있는 학생들을 위한 동아리입니다. 프론트엔드와 백엔드 개발에 대한 스터디와 프로젝트를 진행하며, 함께 성장하는 개발자들을 모집합니다.",
+        "date": "2025-02-10",
+        "likes": 75,
+        "scraps": 32,
+        "comments": 18,
+        "image": "https://www.ajou.ac.kr/_attach/ajou/editor-image/2020/10/iqWsrMuSDxlvgzsMlOTHtUJEsj.jpg"
+    },
+    {
+        "post_id": "11111119",
+        "id": "We AI",
+        "type": "공모전",
+        "title": "AI를 활용한 의료 기술 공모전",
+        "content": "의료 분야에서 인공지능 기술을 활용하여 혁신적인 의료 솔루션을 개발하는 공모전입니다. 의료 인공지능 기술에 관심 있는 학생들을 모집합니다.",
+        "date": "2025-01-15",
+        "likes": 70,
+        "scraps": 28,
+        "comments": 22,
+        "image": "https://thinkyou.co.kr/upload/consult/20180417P32043.jpg"
+    },
+    {
+        "post_id": "11111118",
+        "id": "Global Tech",
+        "type": "대외활동",
+        "title": "소프트웨어 해외 인턴십 'GlobalTech Internship Program 2024'",
+        "content": "GlobalTech Internship Program은 해외에서 소프트웨어 개발 및 기술 관련 인턴십을 제공하는 프로그램입니다. 해외 기업에서의 실무 경험을 쌓고 국제적인 역량을 키우고자 하는 학생들을 모집합니다.",
+        "date": "2024-12-01",
+        "likes": 80,
+        "scraps": 35,
+        "comments": 25,
+        "image": "https://cdn.imweb.me/upload/S201905215ce3caad74538/198bb7bf7d036.png"
+    },
+    {
+        "post_id": "11111117",
+        "id": "데이터 조아",
+        "type": "동아리",
+        "title": "데이터 분석 동아리 'Data Analytics Club' 신입 회원 모집",
+        "content": "데이터 분석 클럽은 데이터를 활용하여 인사이트를 얻고 의사 결정을 지원하는 방법을 연구하는 동아리입니다. 데이터 분석에 관심 있는 학생들을 모집합니다.",
+        "date": "2024-11-05",
+        "likes": 70,
+        "scraps": 30,
+        "comments": 20,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxhO3icC71iN062V7oUWPCCgiugRdAdNjYZHJiAw5NPQ&s"
+    },
+    {
+        "post_id": "11111116",
+        "id": "보안쟁이",
+        "type": "공모전",
+        "title": "소프트웨어 보안 경진대회 'Securithon 2024'",
+        "content": "Securithon은 소프트웨어 보안에 관심 있는 학생들을 위한 경진대회입니다. 다양한 보안 챌린지를 통해 보안 전문가로서의 역량을 향상시키고 경쟁하는 기회를 제공합니다.",
+        "date": "2024-10-10",
+        "likes": 65,
+        "scraps": 25,
+        "comments": 18,
+        "image": "https://thinkyou.co.kr/upload/consult/%ED%8F%AC%EC%8A%A4%ED%84%B095.jpg"
+    },
+    {
+        "post_id": "11111115",
+        "id": "Tech Talks",
+        "type": "대외활동",
+        "title": "소프트웨어 학술 세미나 'TechTalks 2024' 참가자 모집",
+        "content": "TechTalks는 소프트웨어 관련 최신 기술 및 동향을 소개하는 학술 세미나입니다. 다양한 분야의 전문가들이 강연을 진행하며, 소프트웨어 관련 지식을 넓히고 싶은 분들을 위한 행사입니다.",
+        "date": "2024-09-15",
+        "likes": 75,
+        "scraps": 22,
+        "comments": 15,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirZlKjASGy-_P6zPd0Pd9wSVFedTRrtZAwnTiwjV2tw&s"
+    },
+    {
+        "post_id": "11111114",
+        "id": "AI Labs",
+        "type": "동아리",
+        "title": "AI 연구 동아리 'AI Lab' 신입 회원 모집",
+        "content": "AI Lab은 인공지능 및 기계학습에 관심 있는 학생들을 위한 연구 동아리입니다. 최신 기술 동향과 함께 다양한 프로젝트를 수행하며, AI 분야에서의 지식을 공유하고 실력을 향상시킬 수 있는 기회를 제공합니다.",
+        "date": "2024-08-20",
+        "likes": 55,
+        "scraps": 18,
+        "comments": 10,
+        "image": "https://www.contestkorea.com/admincenter/files/meet/202309051532483487223.jpg"
+    },
+    {
+        "post_id": "11111113",
+        "id": "공모전 알리미",
+        "type": "공모전",
+        "title": "소프트웨어 창업 아이디어 공모전",
+        "content": "소프트웨어 기술을 활용하여 혁신적인 제품 또는 서비스를 개발하는 창업 아이디어를 공모하는 대회입니다. 창의적인 아이디어와 비즈니스 모델을 통해 성공적인 창업을 지원합니다.",
+        "date": "2024-07-05",
+        "likes": 60,
+        "scraps": 20,
+        "comments": 12,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvnh8CKeZ1K4_n77r6hq0wPhqwTqUpVNqH3PkQxD2VgQ&s"
+    },
+    {
+        "post_id": "11111112",
+        "id": "해커톤 관리자",
+        "type": "대외활동",
+        "title": "소프트웨어 해커톤 'CodeFest 2024' 참가자 모집",
+        "content": "CodeFest는 창의적인 소프트웨어 개발자들이 모여 24시간 동안 프로젝트를 개발하는 해커톤 대회입니다. 소프트웨어 개발에 관심 있는 누구나 참가할 수 있으며, 다양한 경험과 상금을 기대할 수 있습니다.",
+        "date": "2024-06-10",
+        "likes": 70,
+        "scraps": 15,
+        "comments": 8,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPnVSJmsgiik6RVzfQg4f9WZl9S9VQuOE5quBZ27Wztg&s"
+    },
+    {
+        "post_id": "11111111",
+        "id": "Code Masters 운영자",
+        "type": "동아리",
+        "title": "소프트웨어 개발 동아리 'Code Masters' 신입 회원 모집",
+        "content": "코드 마스터즈(Code Masters)는 소프트웨어 개발에 관심 있는 학생들을 위한 동아리입니다. 다양한 프로젝트와 스터디를 통해 실력을 향상시키고, 함께 성장해나갈 동료를 찾고 있습니다.",
+        "date": "2024-05-15",
+        "likes": 50,
+        "scraps": 10,
+        "comments": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNhhapVrpSbSYQyWmoneLJBa0i1k3tplmD0xl-tdec1w&s"
+    }
+]

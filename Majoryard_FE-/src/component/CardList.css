@@ -1,0 +1,25 @@
+.posts {
+  display: flex;
+  justify-content: center; /* 가로 중앙 정렬 */
+  align-items: center; /* 세로 중앙 정렬 */
+  flex-direction: column;
+  width: 100%;
+}
+
+.posts a {
+  color: inherit; /* 링크 색상을 상위 요소의 색으로 상속 */
+  text-decoration: none; /* 밑줄 제거 */
+}
+
+.posts a {
+  display: flex; /* 링크 내부의 카드를 행으로 정렬 */
+}
+
+.posts a > div {
+  flex: 1; /* 링크 내부의 카드가 동일한 너비를 가지도록 설정 */
+}
+
+.posts a img {
+  max-width: 100%; /* 이미지의 최대 너비를 부모 요소에 맞춤 */
+  height: auto; /* 이미지의 높이를 자동으로 조정하여 비율 유지 */
+}

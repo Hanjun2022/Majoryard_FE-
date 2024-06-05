@@ -1,0 +1,35 @@
+.signup-form-container {
+  max-width: 500px;
+  margin: 0 auto; /* 수평 가운데 정렬 */
+}
+
+.input-form {
+  margin: 20px;
+}
+
+.form {
+  display: flex; /* Flexbox 레이아웃 사용 */
+  flex-direction: column; /* 세로로 요소들을 배치 */
+  align-items: center; /* 수평 가운데 정렬 */
+}
+
+.input-form button {
+  width: 100%;
+}
+
+.password-mismatch {
+  color: red;
+  margin-left: 70px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 600px) {
+  .signup-header h2 {
+    font-size: 24px;
+  }
+
+  .signup-header p {
+    font-size: 14px;
+  }
+}

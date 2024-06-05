@@ -1,0 +1,107 @@
+.home_contents_div {
+    margin-top: 20px;
+    justify-content: center;
+    position: relative;
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* 칠판 css */
+.white_board {
+    background-color: rgb(237, 245, 255);
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid rgb(31, 124, 255);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 80%;
+}
+
+.promo_link {
+    margin: 10px;
+    text-decoration: none;
+}
+
+.promo_img {
+    width: 250px;
+    height: auto;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.promo_img:hover {
+    transform: scale(1.05);
+}
+
+/* 반응형 디자인 */
+@media (max-width: 1750px) {
+    .promo_img {
+        width: 200px;
+    }
+}
+
+@media (max-width: 1450px) {
+    .promo_img {
+        width: 170px;
+    }
+}
+
+@media (max-width: 1250px) {
+    .promo_img {
+        width: 120px;
+    }
+}
+
+@media (max-width: 950px) {
+    .promo_img {
+        width: 170px;
+    }
+}
+
+.other_board {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(330px, 3fr));
+    align-items: center;
+    margin-top: 60px;
+    justify-content: center;
+}
+
+.inner_board {
+    margin: 0 auto;
+    border: 2px solid rgb(31, 124, 255);
+    border-radius: 5%;
+    width: 20rem;
+    margin-top: 30px;
+}
+
+.inner_board h2 {
+    margin-left: 30px;
+    margin-bottom: 10px;
+    color: blue;
+}
+
+.inner_board hr {
+    width: 80%;
+}
+
+
+.inner_board_text_div {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.inner_board p {
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgb(184, 184, 184);
+    text-overflow: ellipsis;
+    overflow: hidden;
+    word-break: keep-all;
+    white-space: nowrap;
+}

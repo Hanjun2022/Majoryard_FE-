@@ -1,0 +1,7 @@
+.closed-sidebar {
+    display: none;
+}
+
+.opened-sidebar {
+    display: block;
+}

@@ -1,0 +1,34 @@
+.sidebar {
+  margin-top: 5px;
+  position: absolute;
+  top: 125px;
+  left: 0;
+  width: 150px;
+  padding: 20px;
+  border-radius: 5%;
+  overflow-y: auto;
+  box-shadow: 2px 2px 4px 2px rgb(119, 119, 119);
+  background-color: white;
+  z-index: 1;
+}
+
+.sidebar-menu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-item {
+  margin-bottom: 10px;
+}
+
+.sidebar-item a {
+  display: block;
+  color: #333;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.sidebar-item a:hover {
+  background-color: #e0e0e0;
+}

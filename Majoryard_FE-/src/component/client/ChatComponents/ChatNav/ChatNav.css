@@ -1,0 +1,88 @@
+
+.chatword {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  color: #2F80DE;
+  font-size: 40px; 
+  font-weight: 700;   
+}
+.chatnav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  
+} 
+
+.chatlist {
+  margin-left:30px;
+  margin-top:30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width:350px;
+ 
+}
+.chatlist_items{
+  height: 80%;
+}
+.chatInfo{
+  height: 50px;
+
+  background-color: #2F80DE;
+  display: flex;
+  align-items: center;
+}
+
+.chatlist h2 {
+  margin-bottom: 20px; /* Add some space between the heading and the search bar */
+}
+
+.chatList__search {
+  width: 100%; /* Ensure the search bar takes the full width */
+}
+
+.search_wrap {
+  display: flex;
+  align-items: center;
+  background-color: #e6e5ea;
+  border-radius: 40px;
+  height: 60px;
+  width: 100%;
+  margin-right: 10px;
+}
+
+.search_wrap input {
+  background-color: transparent;
+  
+  border:none;
+  outline: none;
+  width: 100%;
+  height: 100%;
+  border-radius: 40px;
+}
+
+.search-btn {
+  height: 140px;
+  border: none;
+  background-color: transparent;
+  outline: none;
+  width: 20%;
+  cursor: pointer;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  
+}
+.Searchpic{
+  height: 60px;
+  width: 50px;
+  border-radius: 50px;
+}
+.Search {
+  height: 30px;
+  width: 30px;
+}
+.chatlist_items{
+  width:100%;
+}

@@ -1,0 +1,120 @@
+.type-chosen {
+  color: blue;
+  font-weight: bold;
+}
+
+.promotion-type-button {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.promotion-type-button button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  background-color: #f0f0f0;
+  color: #494747;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.promotion-type-button button.type-chosen {
+  background-color: #ff6b6b;
+  color: #fff;
+}
+
+.promotionboard {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.promotionboard a {
+  text-decoration: none;
+}
+
+.promo-content {
+  color: #333;
+}
+
+.promotionBoard-posts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(330px, 3fr));
+  grid-gap: 30px;
+}
+
+.promotion-type-button button {
+  display: inline-block;
+  background-color: transparent;
+  border-color: #b5ccf8;
+  font-size: 20px;
+  border-radius: 5%;
+  border: none;
+  padding: 10px;
+  margin: 2px;
+  margin-bottom: 30px;
+  width: 100px;
+}
+
+.promotion-type-button button:hover {
+  cursor: pointer;
+  background-color: #e0e0e0;
+}
+
+.promo-card-container {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  background-color: #fff;
+  overflow: hidden;
+  width: 20rem;
+  height: 35rem;
+}
+
+.promo-card-container img {
+  width: 20rem;
+  height: 25rem;
+  overflow: hidden;
+  /* 이미지가 정사각형이 되도록 */
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin: 0 auto;
+}
+
+.promo-card-container .no-image {
+  object-fit: contain;
+}
+
+.promo-id {
+  font-size: 14px;
+  color: #999;
+}
+
+.promo-card-container h2 {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.promo-details {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  color: #666;
+  height: 3rem;
+}
+
+.promo-details p {
+  margin-right: 5px;
+}
+
+.icon {
+  margin-right: 5px;
+}
+
+.promo-content {
+  margin: 0;
+}

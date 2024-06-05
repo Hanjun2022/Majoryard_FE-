@@ -1,0 +1,94 @@
+.studyboard {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.head-contents {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.head-contents h2 {
+  margin-left: 50px;
+  color: blue;
+  display: inline-block;
+  font-size: 30px;
+}
+
+.head-contents .input {
+  display: flex;
+}
+
+.head-contents .input input {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 15px;
+  height: 35px;
+}
+
+.head-contents .input button {
+  display: inline-block;
+  margin: 0px;
+  width: 80px;
+  font-size: 15px;
+  color: blue;
+  margin-right: 10px;
+}
+
+.studyboard-contents {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.studyboard-contents a {
+  text-decoration: none;
+}
+
+/* card */
+.StudyCard-div {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: #ddd solid 1px;
+  height: 10rem
+}
+
+.StudyCard-title {
+  display: block;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  word-break: keep-all;
+  white-space: nowrap;
+
+  margin-bottom: 15px;
+  font-size: 24px;
+  text-decoration: none;
+  color: #333;
+  width: 69vw;
+}
+
+.StudyCard-content {
+  display: block;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  word-break: keep-all;
+  white-space: nowrap;
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 20px;
+  text-decoration: none;
+  width: 69vw;
+}
+
+.StudyCard-image {
+  height: 8rem;
+  width: 8rem;
+  object-fit: cover;
+}

@@ -1,0 +1,35 @@
+.member-card {
+  display: flex;
+  flex-direction: row;
+  border-style: solid;
+  border-color: #808080;
+  border-width: 1px;
+  border-radius: 30px;
+  margin-top: 10px;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 150px;
+  padding: 40px;
+  margin: 10px;
+}
+
+.profile-left {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.chat-button {
+  background-color: #dce7fd;
+  width: 20%;
+  height: 10%;
+  padding: 10px;
+  color: #3071f2;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-bottom: 20px;
+}

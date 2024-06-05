@@ -1,0 +1,78 @@
+[
+    {
+        "name":"kelly", 
+        "content":"Hi",
+        "image":"https://ifh.cc/g/2oPy8K.jpg",
+       "time":"10:20" 
+    },
+    {
+        "name":"Steven", 
+        "content":"Hello",
+        "image":"https://ifh.cc/g/9YM2bf.png",
+        "time":"10:30"
+    },
+    {
+        "name":"Akdong", 
+        "content":"Hi",
+        "image":"https://ifh.cc/g/haSqNY.jpg",
+        "time":"10:40"
+    },{
+        "name":"JungJae", 
+        "content":"안녕",
+        "image":"https://ifh.cc/g/k44rW0.webp",
+        "time":"10:40"
+    },
+    {
+        "name":"우성", 
+        "content":"오랜만이야",
+        "image":"https://ifh.cc/g/4XMD74.jpg",
+        "time":"10:40"
+    }
+    
+    ,{
+        "name":"공유", 
+        "content":"오늘 하루 뭐하니 차라도....",
+        "image":"https://ifh.cc/g/1k7qgW.jpg",
+        "time":"10:40"
+    }
+    , {
+        "name":"Hj", 
+        "content":"오늘 시간 돼?",
+        "image":"https://ifh.cc/g/hcrK83.jpg",
+        "time":"10:40"
+    }
+    , {
+        "name":"Suhyun", 
+        "content":"Hi",
+        "image":"https://ifh.cc/g/DNy9hp.jpg",
+        "time":"10:40"
+    }
+    , {
+        "name":"VVVVVVVVVVVV", 
+        "content":"Hi",
+        "image":"https://ifh.cc/g/FoNFlQ.jpg",
+        "time":"10:40"
+    },
+    {
+        "name":"John", 
+        "content":"Hi",
+        "image":"https://ifh.cc/g/dd8h4r.jpg",
+        "time":"10:40"
+    }
+    , {
+        "name":"Miranda", 
+        "content":"Hissssssssssss",
+        "image":"https://ifh.cc/g/G5jvXT.webp",
+        "time":"10:40"
+    },
+    {
+        "name":"Rawon", 
+        "content":"Hiewwwwwwwwwwwwwwwwwwwwwwwww",
+        "image":"https://ifh.cc/g/7KBwnR.webp",
+        "time":"10:40"
+    }
+    
+
+
+
+]

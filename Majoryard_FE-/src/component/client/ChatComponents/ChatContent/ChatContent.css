@@ -1,0 +1,173 @@
+.ChatContent {
+    width: 100%;
+
+}
+
+/* 대화 이미지 프로필 및 뒤로가기버튼 */
+.ChatHeader {
+    height: 11vh;
+    background-color: #A4D0F9;
+    width: 100%;
+    border-radius: 10px;
+
+    margin-left: 10px;
+}
+
+.UserProfilePic {
+    width: 8vh;
+    height: 9vh;
+    border-radius: 50%;
+    margin: 10px auto;
+    margin-right: 10px;
+    float: right;
+    align-items: center;
+}
+
+.UserInfo {
+    float: right;
+}
+
+.UserInfo h3 {
+    margin: 10px auto;
+    font-size: 1.5em;
+    font-weight: lighter;
+}
+
+.UserInfo p {
+    margin: 5px 0 0;
+    font-size: 1em;
+}
+
+/* 대화창 */
+.Chat-Body {
+    width: 100%;
+    height: 85vh;
+    background-color: white;
+    border-radius: 10px;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+.chat-footer {
+    margin-left: 10px;
+    height: 8vh;
+    width: 100%;
+    border: 1px solid #263238;
+    border-top: none;
+    display: flex;
+    height: 100%;
+    border: 0;
+    font-size: 1em;
+    border-right: 1px solid #607d8b;
+    outline: none;
+    font-family: "Open Sans", sans-serif;
+}
+
+.chat-footer input {
+    height: 7.2vh;
+    width: 54vh;
+    flex: 90%;
+    border: 0;
+    padding: 0 0.7em;
+    font-size: 1em;
+    border-right: 1px dotted #607d8b;
+
+    outline: none;
+    font-family: "Open Sans", sans-serif;
+}
+
+.chat-footer button {
+    border: 0;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+    flex: 10%;
+    height: 7.2vh;
+    background: transparent;
+    outline: none;
+    font-size: 25px;
+    color: lightgray;
+}
+
+
+.Chat-Body .messageContent {
+    overflow-y: scroll;
+    /* 스크롤바를 항상 표시 */
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+
+.messageContent::-webkit-scrollbar {
+    display: none;
+    /* WebKit 브라우저에서 스크롤바 숨기기 */
+}
+
+/*상대방과의 대화 */
+#you {
+    justify-content: flex-start;
+}
+
+.message-content {
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-right: 20px;
+    padding-left: 30px;
+}
+
+#you .message-content {
+    justify-content: flex-start;
+    background-color: aqua;
+    margin-left: 5px;
+    max-width: 200px;
+    border-radius: 20px;
+    font-size: 30px;
+}
+.message-info{
+    display: flex;
+}
+
+
+#you .message-info {
+    justify-content: flex-start;
+    margin-left: 5px;
+}
+
+#you .message-info #author {
+    justify-content: flex-start;
+    margin-left: 5px;
+    font-size: 12px;
+    margin-right: 20px;
+}
+
+#you .message-info #time {
+    justify-content: flex-start;
+    margin-left: 5px;
+    font-size: 12px;
+}
+
+/* 상대방 메시지 콘텐트*/
+
+#other {
+    justify-content: flex-end;
+}
+
+#other .message-content {
+    justify-content: flex-end;
+    background-color: #90F9F9;
+    margin-left: 5px;
+    max-width: 400px;
+    border-radius: 20px;
+    font-size: 30px;
+}
+
+#other .message-info {
+    justify-content: flex-end;
+    margin-right: 5px;
+}
+
+.chat-footer button:hover {
+    color: blue;
+}

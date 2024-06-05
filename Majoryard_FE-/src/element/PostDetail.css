@@ -1,0 +1,82 @@
+.detail-page {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.post {
+  margin-bottom: 50px;
+}
+
+.post-image {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.post-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.writer {
+  font-size: 14px;
+  color: #777;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 30px;
+}
+
+.post-image {
+  margin-top: 30px;
+}
+
+.post-content {
+  padding: 30px;
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+.post-details {
+  display: flex;
+  flex-direction: row;
+  font-size: 14px;
+  color: #777;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 30px;
+}
+
+.post-details p {
+  margin-right: 10px;
+  caret-color: transparent;
+  cursor: pointer;
+}
+
+.post-details p:first-child {
+  margin-right: 20px;
+}
+
+.post-likes:hover {
+  color: rgb(155, 15, 39);
+}
+
+.button {
+  border-radius: 4px;
+  border: none;
+  color: white;
+  padding: 10px 16px;
+  font-weight: 500;
+  font-size: 1rem;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.subscribed {
+  background-color: #AAAAAA;
+}
+
+.not-subscribed {
+  background-color: #CC0000;
+}

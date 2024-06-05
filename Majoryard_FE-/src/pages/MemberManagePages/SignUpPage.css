@@ -1,0 +1,61 @@
+.signup-header {
+  text-align: center;
+  margin-bottom: 50px;
+  padding-top: 20px; /* 헤더와 입력 폼 사이의 간격을 조정 */
+}
+
+.signup-header h3 {
+  color: blue;
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+
+.signup-header p {
+  color: #333;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+.signup-header p span {
+  color: blue;
+}
+
+.signup-form-container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.signup-form {
+  max-width: 500px; /* 최대 너비 설정 */
+  margin: 0 auto; /* 가로 중앙 정렬 */
+}
+
+.signup-button {
+  background: blue;
+  border-radius: 10px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: block; /* 블록 레벨 요소로 지정 */
+  margin: 80px auto; /* 가로 중앙 정렬 */
+  padding-left: 150px;
+  padding-right: 150px;
+  border: none;
+}
+
+submit-button:hover {
+  background-color: #0056b3;
+}
+
+@media screen and (max-width: 600px) {
+  .signup-header h2 {
+    font-size: 24px;
+  }
+
+  .signup-header p {
+    font-size: 14px;
+  }
+}

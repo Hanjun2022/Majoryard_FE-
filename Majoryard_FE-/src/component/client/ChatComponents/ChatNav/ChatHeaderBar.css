@@ -1,0 +1,47 @@
+.chatHeaderBar {
+    display: flex;
+    justify-content: flex-end; /* 오른쪽 정렬을 위해 추가 */
+    align-items: center; /* 수직 정렬 */
+    width: 100%;
+    background-color: #A4D0F9;
+    border-radius: 20px;
+    margin-bottom: 1vh;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    width: 20%;
+    justify-content: flex-end; /* 프로필을 오른쪽 끝으로 정렬 */
+}
+
+.UserProfilePic {
+    width: 8vh;
+    height: 8vh;
+    border-radius: 50%;
+    margin-left: 1.5vh;
+}
+
+.UserInfo h3 {
+    margin: 0;
+    font-size: 1.5em;
+    font-weight: 100;
+    margin-right: 10px;
+}
+
+.UserInfo p {
+    margin: 5px 0 0;
+    font-size: 1em;
+}
+
+.search-btn {
+    height: 12px;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    width: 20%;
+    cursor: pointer;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}

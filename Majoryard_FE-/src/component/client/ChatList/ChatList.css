@@ -1,0 +1,142 @@
+/*.listform {
+    height: 540px;
+    width: 100%;
+   margin-top: 10vh;
+    display: flex;
+    flex-direction: column;
+  }
+  .chatsubscriberlist{
+    border-bottom:0.1px solid grey;
+    background-color: #D9D9D9;
+    height:100px;
+
+  }
+  .listimg {
+    height: 300px;
+  }
+  
+  .userChat {
+    display: flex;
+    align-items: center;
+  }
+  
+  
+  .userChat .listimg {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+  }
+  
+  .chatlistname {
+    margin-left: 15px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow:hidden;
+    max-width: 150px;
+  }
+  
+  .chatlistcontent {
+    max-width: 150px;
+    flex-grow: 0.5;
+    margin-left:10px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow:hidden;
+  }
+  
+  .chattime {
+    margin-left: 20px;
+    white-space: nowrap;
+  }
+  
+  .chatsubscriberlist {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .chatlist-container {
+    overflow-y: scroll;
+  
+    height: 100%;
+  }
+  
+  .chatlist-container::-webkit-scrollbar {
+    display: none; 
+  }
+
+.chatsubscriberlist:hover {
+  background-color: #BFBFBF; 
+  cursor: pointer; 
+}*/
+.listform {
+  height: 540px;
+  width: 100%;
+  margin-top:30px;
+  display: flex;
+  flex-direction: column;
+}
+.chatsubscriberlist{
+  border-bottom:0.1px solid grey;
+  background-color: #D9D9D9;
+  height:100px;
+
+}
+.listimg {
+  height: 300px;
+}
+
+.userChat {
+  display: flex;
+  align-items: center;
+}
+
+
+.userChat .listimg {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
+
+.chatlistname {
+  margin-left: 15px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow:hidden;
+  max-width: 150px;
+}
+
+.chatlistcontent {
+  max-width: 150px;
+  flex-grow: 0.5;
+  margin-left:10px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow:hidden;
+}
+
+.chattime {
+  margin-left: 20px;
+  white-space: nowrap;
+}
+
+.chatsubscriberlist {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.chatlist-container {
+  overflow-y: scroll; /* 스크롤바를 항상 표시 */
+
+  height: 100%;
+}
+
+.chatlist-container::-webkit-scrollbar {
+  display: none; /* WebKit 브라우저에서 스크롤바 숨기기 */
+}
+
+.chatsubscriberlist:hover {
+background-color: #BFBFBF; /* Change background color on hover */
+cursor: pointer; /* Change cursor to pointer on hover */
+}

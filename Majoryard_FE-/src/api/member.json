@@ -1,0 +1,72 @@
+[
+  {
+    "id": "Chul",
+    "name": "김철수",
+    "grade": 3,
+    "intro": "패션에 관심 많은 대학생",
+    "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA0MTdfMTE5%2FMDAxNzEzMjgzNzExOTkx.MOgmXRhgZydbWFTVwSeJUWauz-bnkWsXxKGJf1bJAPIg.ceSftF5xiWYHMD2Cxo8Q-DDFWvnBv2w1y_lgpeRLOKkg.JPEG%2FInternet%25A3%25DF20240417%25A3%25DF010737%25A3%25DF2.jpeg&type=sc960_832"
+  },
+  {
+    "id": "LeeYoung",
+    "name": "이영희",
+    "grade": 2,
+    "intro": "요리가 취미인 직장인",
+    "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTEwMTVfMTMz%2FMDAxNTcxMTI3MDA2OTA5.RtEeVEt2hvaS63_YIyeOEf2XtjsqZjNahfL62ogJXeUg.M3GURS5npBV65vki4Eypb2U4Ap9uSgGzFZsYvbIy604g.JPEG.truefan%2FAI%25C0%25CE%25B9%25B0%25B8%25F0%25B5%25A8.jpg&type=sc960_832"
+  },
+  {
+    "id": "Min",
+    "name": "박수민",
+    "grade": 1,
+    "intro": "여행을 좋아하는 고등학생",
+    "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAxMjJfMjcw%2FMDAxNjc0Mzg4Mzk0OTAz.A1q87-OqkJ_Z0hvZ2jOHSa8-B8hio-u5NBJ23Qybcr0g.ueHZsi4tF2uer1x9zeC2NPyqS663cuHjLf_S3twtd40g.JPEG.kiddy28%2F%25C1%25A6%25B4%25CF_%25C5%25E6%25B4%25D9%25BF%25EE_%25C1%25DF%25C0%25FA%25B8%25ED%25B5%25B5_%25C4%25C3%25B7%25AF.JPG&type=a340"
+  },
+  {
+    "id": "Ji",
+    "name": "정지영",
+    "grade": 4,
+    "intro": "영화 감상이 취미인 대학원생",
+    "image": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fcdn2.ppomppu.co.kr%2Fzboard%2Fdata3%2F2021%2F0121%2F20210121101525_xrgwzftm.jpg&type=a340"
+  },
+  {
+    "id": "Eun",
+    "name": "이지은",
+    "grade": 3,
+    "intro": "독서를 좋아하는 직장인",
+    "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA2MjRfMTY1%2FMDAxNTYxMzM5NTg1MzI5.M-xa7I6J7HPZfem_Fkm-thA2kA5Rwj0FgIqekoiEjOcg.IukRbXyiXNaABoNkve2--cnwDSDRCSP6s-qOYOSkFYsg.JPEG.cyuenv_080%2F%25BC%25B1%25C1%25A4%25B8%25AA%25BF%25AA%25C1%25F5%25B8%25ED%25BB%25E7%25C1%25F8_%25286%2529.jpg&type=a340"
+  },
+  {
+    "id": "Kill",
+    "name": "홍길동",
+    "grade": 2,
+    "intro": "운동을 좋아하는 중학생",
+    "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTEwMDlfMzkg%2FMDAxNTcwNjE2MTA0NzQ5.hc0006WVGD2uMHIIKYITIGrpM8YSXXZlmv9Ozu3faPkg.eNjQWqunlKPlNcH6Qjbhp1jAbEQexAfxNHXWkCGkQIgg.JPEG.sdpro0085%2F1570615729593-5.jpg&type=a340"
+  },
+  {
+    "id": 7,
+    "name": "김미영",
+    "grade": 1,
+    "intro": "음악을 좋아하는 고등학생",
+    "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTEyMTVfOTQg%2FMDAxNTc2NDEzNTI5ODg1.8T3QA9qbOL6WvU57JhtL1Cz3dBrVMI7o1u5OYP0nw3sg.2qVOV2Vwpi_9XJEz-BgR7_F9NpqTAP2bFnx1I1ULFLog.JPEG.mellowlucy%2FIMG_3963.JPG&type=a340"
+  },
+  {
+    "id": 8,
+    "name": "장영수",
+    "grade": 4,
+    "intro": "미술에 재능 있는 대학생",
+    "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDAzMzFfMTc0%2FMDAxNTg1NjQ3OTMxMzE2.ZGvViExYj4xZ9p9pEckQyKe4izBrOIzx7_S7uMmx_9gg.7SYN8ZqAoBGsR40srGy2BnEf2cQeiLwOXBXdg03tzuYg.JPEG.s_davinci%2FKakaoTalk_20190910_102940658_07.jpg&type=a340"
+  },
+  {
+    "id": 9,
+    "name": "송민재",
+    "grade": 3,
+    "intro": "사진 찍는 것을 좋아하는 직장인",
+    "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA0MTdfMTk0%2FMDAxNTg3MTM0NzE0Mzg3.aVLcdy54Cfykh0mZhrwYPswsJJlffYEjQKgMNxi4O1Mg.CKH7uwohvQYWMagSeN4HwMobTj1uR9JSGELCmmw9Y5Ig.PNG.yja03206%2FRingble_23644_copy_%25BB%25E7%25BA%25BB.png&type=a340"
+  },
+  {
+    "id": 10,
+    "name": "이현우",
+    "grade": 2,
+    "intro": "자전거 타는 것을 취미로 하는 고등학생",
+    "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTEwMTNfMjM2%2FMDAxNjM0MTIwMTM0Mzgx.xZmBfODUtFXxyqERMEWvO7SZVJz1iKw6vhESl7Ff1l0g.Q5ReppqdbRoPWji1QcFSifznrDJsqv9ZCKtbYtjSK5Ug.JPEG.wonch999%2F9.JPG&type=a340"
+  }
+]

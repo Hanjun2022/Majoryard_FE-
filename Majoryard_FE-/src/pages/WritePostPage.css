@@ -1,0 +1,90 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.write-buttonContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.select,
+.titlearea,
+.textarea {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border: 2px solid rgba(48, 113, 242, 0.608);
+  transition: border-color 0.3s;
+  outline: none;
+}
+
+.select {
+  border-radius: 8px;
+}
+
+.textarea {
+  height: 300px;
+  border-radius: 20px;
+}
+
+.select:focus,
+.titlearea:focus,
+.textarea:focus {
+  border-color: #80808088;
+}
+
+.write-done-button {
+  background: rgb(48, 113, 242);
+  border-radius: 10px;
+  font-weight: bold;
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.write-done-button:hover {
+  background-color: #0056b3;
+}
+
+.dropzone {
+  width: 50%;
+  border: 2px dashed #ccc;
+  background-color: #f7f7f7;
+  padding: 0px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.preview-image {
+  max-width: 100%;
+  margin-top: 10px;
+}
+
+.file-preview {
+  display: flex;
+  align-items: flex-end;
+  margin: 10px;
+}
+
+.remove-button {
+  background: rgba(255, 0, 0, 0.7);
+  color: white;
+  border: none;
+  border-radius: 5%;
+  width: 80px;
+  height: 20px;
+  text-align: center;
+  cursor: pointer;
+}
