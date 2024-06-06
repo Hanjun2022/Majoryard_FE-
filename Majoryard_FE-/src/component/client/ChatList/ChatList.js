@@ -1,15 +1,8 @@
-import React, { useEffect, useState } from 'react';
-import subscribe from "../../../../src/api/subscriber.json";
+import React from 'react';
 import ScrollToBottom from "react-scroll-to-bottom";
 import "./ChatList.css";
 
-const ChatList = ({ searchQuery }) => {
-  const [subscribers, setSubscribers] = useState([]);
-
-  useEffect(() => {
-    setSubscribers(subscribe);
-  }, []);
-
+const ChatList = ({ subscribers, searchQuery }) => {
   // 검색어에 맞게 데이터를 필터링하는 함수
   const filteredSubscribers = subscribers.filter(subscriber =>
     subscriber.name && searchQuery ? subscriber.name.toLowerCase().includes(searchQuery.toLowerCase()) : true
@@ -34,4 +27,3 @@ const ChatList = ({ searchQuery }) => {
 };
 
 export default ChatList;
-
